@@ -19,307 +19,13 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/templates/Bryk/language/en-GB/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/templates/Bryk/language/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/templates/Bryk/templateDetails.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/css/flipclock.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/css/template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/images/splash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/javascript/flipclock.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/javascript/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/javascript/jquery-1.6.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/javascript/prefixfree.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/language/en-GB/en-GB.tpl_beez_20.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/language/en-GB/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/language/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/templateDetails.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_contact.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_contact.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_finder.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_finder.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_installer.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_installer.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_media.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_media.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_modules.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_modules.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_templates.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_templates.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/index.html" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/index.html" afterPath="$PROJECT_DIR$/language/ru-RU/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/install.xml" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/install.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/install.xml" afterPath="$PROJECT_DIR$/language/ru-RU/install.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/packages/pkg_ru-RU.xml" afterPath="$PROJECT_DIR$/administrator/manifests/packages/pkg_ru-RU.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_admin.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_admin.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_admin.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_admin.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_banners.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_banners.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_banners.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_banners.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cache.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cache.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cache.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cache.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_categories.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_categories.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_categories.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_categories.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_checkin.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_checkin.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_checkin.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_checkin.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_config.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_config.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_config.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_config.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_contact.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_contact.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_contact.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_contact.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_content.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_content.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_content.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_content.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_content.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_content.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cpanel.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cpanel.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cpanel.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_cpanel.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_finder.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_finder.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_finder.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_finder.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_installer.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_installer.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_joomlaupdate.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_joomlaupdate.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_joomlaupdate.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_joomlaupdate.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_languages.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_languages.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_languages.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_languages.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_login.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_login.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_login.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_login.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_mailto.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_mailto.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_mailto.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_mailto.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_media.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_media.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_media.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_media.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_menus.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_menus.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_menus.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_menus.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_messages.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_messages.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_messages.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_messages.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_messages.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_messages.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_modules.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_modules.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_newsfeeds.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_newsfeeds.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_newsfeeds.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_newsfeeds.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_newsfeeds.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_newsfeeds.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_plugins.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_plugins.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_plugins.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_plugins.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_redirect.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_redirect.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_redirect.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_redirect.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_search.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_search.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_search.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_search.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_search.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_search.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_templates.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_templates.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_users.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_users.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_users.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_users.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_users.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_users.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_weblinks.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_weblinks.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_weblinks.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_weblinks.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_weblinks.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_weblinks.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_wrapper.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_wrapper.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_wrapper.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_wrapper.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_wrapper.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.com_wrapper.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.css" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.files_joomla.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.files_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.finder_cli.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.finder_cli.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.lib_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.lib_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_joomla.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_joomla.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_phpmailer.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_phpmailer.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_phputf8.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_phputf8.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_simplepie.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.lib_simplepie.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.localise.php" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.localise.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.localise.php" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.localise.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_archive.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_archive.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_archive.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_archive.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_categories.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_categories.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_categories.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_categories.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_category.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_category.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_category.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_category.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_latest.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_latest.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_latest.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_latest.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_news.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_news.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_news.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_news.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_popular.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_popular.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_popular.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_articles_popular.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_banners.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_banners.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_banners.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_banners.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_breadcrumbs.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_breadcrumbs.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_breadcrumbs.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_breadcrumbs.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_custom.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_custom.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_custom.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_custom.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_custom.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_custom.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_custom.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_custom.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_feed.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_feed.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_feed.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_feed.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_feed.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_feed.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_feed.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_feed.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_finder.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_finder.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_finder.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_finder.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_footer.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_footer.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_footer.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_footer.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_languages.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_languages.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_languages.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_languages.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_latest.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_latest.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_latest.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_latest.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_logged.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_logged.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_logged.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_logged.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_login.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_login.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_login.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_login.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_login.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_login.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_login.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_login.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_menu.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_menu.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_menu.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_menu.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_menu.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_menu.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_menu.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_menu.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_multilangstatus.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_multilangstatus.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_multilangstatus.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_multilangstatus.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_popular.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_popular.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_popular.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_popular.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_quickicon.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_quickicon.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_quickicon.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_quickicon.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_random_image.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_random_image.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_random_image.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_random_image.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_related_items.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_related_items.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_related_items.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_related_items.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_search.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_search.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_search.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_search.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_stats.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_stats.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_stats.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_stats.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_status.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_status.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_status.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_status.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_submenu.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_submenu.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_submenu.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_submenu.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_syndicate.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_syndicate.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_syndicate.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_syndicate.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_title.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_title.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_title.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_title.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_toolbar.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_toolbar.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_toolbar.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_toolbar.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_users_latest.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_users_latest.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_users_latest.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_users_latest.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_version.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_version.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_version.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.mod_version.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_weblinks.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_weblinks.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_weblinks.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_weblinks.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_whosonline.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_whosonline.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_whosonline.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_whosonline.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_wrapper.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_wrapper.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_wrapper.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.mod_wrapper.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.pkg_joomla.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.pkg_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_gmail.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_gmail.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_gmail.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_gmail.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_joomla.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_ldap.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_ldap.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_ldap.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_authentication_ldap.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_captcha_recaptcha.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_captcha_recaptcha.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_captcha_recaptcha.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_captcha_recaptcha.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_emailcloak.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_emailcloak.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_emailcloak.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_emailcloak.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_finder.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_finder.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_finder.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_finder.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_geshi.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_geshi.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_geshi.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_geshi.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_joomla.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_loadmodule.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_loadmodule.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_loadmodule.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_loadmodule.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagebreak.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagebreak.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagebreak.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagebreak.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagenavigation.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagenavigation.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagenavigation.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_pagenavigation.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_vote.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_vote.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_vote.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_content_vote.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_article.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_article.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_article.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_article.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_image.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_image.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_image.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_image.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_pagebreak.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_pagebreak.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_pagebreak.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_pagebreak.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_readmore.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_readmore.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_readmore.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors-xtd_readmore.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_codemirror.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_codemirror.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_codemirror.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_codemirror.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_none.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_none.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_none.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_none.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_tinymce.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_tinymce.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_tinymce.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_editors_tinymce.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_extension_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_extension_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_extension_joomla.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_extension_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_categories.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_categories.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_categories.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_categories.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_contacts.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_contacts.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_contacts.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_contacts.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_content.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_content.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_content.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_content.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_newsfeeds.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_newsfeeds.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_newsfeeds.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_newsfeeds.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_weblinks.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_weblinks.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_weblinks.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_finder_weblinks.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_extensionupdate.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_extensionupdate.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_extensionupdate.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_extensionupdate.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_joomlaupdate.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_joomlaupdate.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_joomlaupdate.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_quickicon_joomlaupdate.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_categories.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_categories.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_categories.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_categories.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_contacts.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_contacts.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_contacts.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_contacts.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_content.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_content.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_content.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_content.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_newsfeeds.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_newsfeeds.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_newsfeeds.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_newsfeeds.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_weblinks.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_weblinks.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_weblinks.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_search_weblinks.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_cache.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_cache.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_cache.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_cache.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_debug.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_debug.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_debug.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_debug.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_highlight.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_highlight.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_highlight.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_highlight.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagecode.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagecode.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagecode.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagecode.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagefilter.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagefilter.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagefilter.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_languagefilter.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_log.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_log.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_log.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_log.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_logout.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_logout.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_logout.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_logout.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_p3p.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_p3p.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_p3p.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_p3p.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_redirect.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_redirect.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_redirect.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_redirect.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_remember.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_remember.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_remember.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_remember.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_sef.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_sef.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_sef.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_sef.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_contactcreator.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_contactcreator.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_contactcreator.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_contactcreator.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_joomla.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_joomla.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_profile.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_profile.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_profile.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_user_profile.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_atomic.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_atomic.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_atomic.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_atomic.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez5.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez5.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez5.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez5.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez_20.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez_20.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez_20.sys.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.tpl_beez_20.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_bluestork.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_bluestork.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_bluestork.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_bluestork.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_hathor.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_hathor.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_hathor.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.tpl_hathor.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.xml" afterPath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.xml" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/langs/ru.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/langs/ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/ru.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/themes/simple/langs/ru.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/themes/simple/langs/ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/advhr/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/advhr/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/advimage/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/advimage/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/advlink/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/advlink/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/emotions/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/emotions/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/fullpage/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/fullpage/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/media/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/media/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/paste/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/paste/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/style/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/style/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/table/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/table/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/template/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/template/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/ru_dlg.js" afterPath="$PROJECT_DIR$/media/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/ru_dlg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/files/tinymce_ru-ru.xml" afterPath="$PROJECT_DIR$/administrator/manifests/files/tinymce_ru-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/bryk/index.php" afterPath="$PROJECT_DIR$/templates/bryk/index.php" />
     </list>
     <ignored path="joomlaT.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/templateDetalls.xml" changelist="f4ffd900-8a0a-42b2-9923-7e6e7eaef9ad" time="1382879469143" ignored="false" />
     <file path="/Dummy.txt" changelist="f4ffd900-8a0a-42b2-9923-7e6e7eaef9ad" time="1382903290468" ignored="false" />
-    <file path="/index.php" changelist="f4ffd900-8a0a-42b2-9923-7e6e7eaef9ad" time="1382904115906" ignored="false" />
+    <file path="/index.php" changelist="f4ffd900-8a0a-42b2-9923-7e6e7eaef9ad" time="1382907654613" ignored="false" />
     <file path="/templateDetails.xml" changelist="f4ffd900-8a0a-42b2-9923-7e6e7eaef9ad" time="1382900180812" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -343,11 +49,14 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/bryk/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="6" selection-start="3480" selection-end="3480" vertical-scroll-proportion="1.2853717">
+            <state line="75" column="0" selection-start="3465" selection-end="3465" vertical-scroll-proportion="0.5955335">
               <folding>
                 <element signature="e#10#149#0" expanded="false" />
+                <element signature="tag#script#4;tag#head#0;tag#html#0" expanded="false" />
+                <element signature="tag#script#5;tag#head#0;tag#html#0" expanded="false" />
+                <element signature="tag#script#6;tag#head#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#jdoc:include#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#ul#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#jdoc:include#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -633,7 +342,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1615" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -732,8 +441,11 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#10#149#0" expanded="false" />
+            <element signature="tag#script#4;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#script#5;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#script#6;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#jdoc:include#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#ul#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#jdoc:include#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -823,11 +535,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/bryk/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="6" selection-start="3480" selection-end="3480" vertical-scroll-proportion="1.2853717">
+        <state line="75" column="0" selection-start="3465" selection-end="3465" vertical-scroll-proportion="0.5955335">
           <folding>
             <element signature="e#10#149#0" expanded="false" />
+            <element signature="tag#script#4;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#script#5;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#script#6;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#jdoc:include#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#ul#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#jdoc:include#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>

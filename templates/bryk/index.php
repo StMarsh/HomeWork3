@@ -18,10 +18,10 @@
 
     <link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/css/style.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/css/flipclock.css">
-    <link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/template.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/css/template.css"/>
 
     <!--[if lte IE 6]>
-    <link rel="stylesheet" href="/<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/style_ie.css" type="text/css"  />
+    <link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/style_ie.css"  />
     <![endif]-->
 
     <script type="text/javascript" src="/javascript/jquery-1.6.4.min.js"></script>
@@ -81,7 +81,7 @@
     <div id="header">
         <h1><a href="/"><?php echo $app->getCfg('sitename'); ?></a></h1>
         <jdoc:include type="modules" name="position-15" />
-        <jdoc:include type="modules" name="top" style="xhtml" />
+        <jdoc:include type="modules" name="position-1" style="xhtml" />
         <ul class="links">
             <li class="fb"><a href="http://www.facebook.com/pages/GeekHub/158983477520070">facebook</a></li>
             <li class="vk"><a href="http://vkontakte.ru/geekhub">Вконтакте</a></li>
@@ -202,8 +202,8 @@
     </div> <!-- content -->
     <?php if($this->countModules('footer')) : ?>
         <div id="footer">
-            <jdoc:include type="modules" name="footer" style="xhtml" />
-            Copyright &copy; Bryk | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>
+            <jdoc:include type="modules" name="position-14" style="xhtml" />
+            <div>Copyright &copy; Bryk | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a></div>
         </div>
     <?php endif; ?> <!-- #footer -->
 </div> <!-- #wrapper -->
