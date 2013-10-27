@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 3/0//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/3.0/template-install.dtd">
 <extension version="2.5" type="template" client="site">
     <name>Bryk</name>
     <creationDate>27.10.2013</creationDate>
@@ -7,7 +8,7 @@
     <authorUrl>http://vk.com/id5666638</authorUrl>
     <copyright>Copyright 2013 </copyright>
     <license>GNU General Public License</license>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <description>My tamplate</description>
 
     <files>
@@ -41,6 +42,7 @@
     </positions>
 
     <languages folder="language">
-        <language tag="en-GB">en-GB/en-GB.tpl_template_name.ini</language>
+        <language tag="en-GB">en-GB/en-GB.tpl_bryk.ini</language>
+        <language tag="en-GB">en-GB/en-GB.tpl_bryk.sys.ini</language>
     </languages>
 </extension>
