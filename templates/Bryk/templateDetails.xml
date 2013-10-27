@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template" client="site">
+    <name>Bryk</name>
+    <creationDate>27.10.2013</creationDate>
+    <author>Alexander Bryk</author>
+    <authorEmail>milano_@mail.ru</authorEmail>
+    <authorUrl>http://vk.com/id5666638</authorUrl>
+    <copyright>Copyright 2013 </copyright>
+    <license>GNU General Public License</license>
+    <version>1.0.0</version>
+    <description> My tamplate</description>
+
+    <files>
+        <folder>css</folder>
+        <folder>images</folder>
+        <folder>javascript</folder>
+        <folder>language</folder>
+        <filename>index.html</filename>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+    </files>
+
+    <positions>
+        <position>debug</position>
+        <position>position-0</position>
+        <position>position-1</position>
+        <position>position-2</position>
+        <position>position-3</position>
+        <position>position-4</position>
+        <position>position-5</position>
+        <position>position-6</position>
+        <position>position-7</position>
+        <position>position-8</position>
+        <position>position-9</position>
+        <position>position-10</position>
+        <position>position-11</position>
+        <position>position-12</position>
+        <position>position-13</position>
+        <position>position-14</position>
+        <position>position-15</position>
+    </positions>
+
+    <languages folder="language">
+        <language tag="en-GB">en-GB/en-GB.tpl_template_name.ini</language>
+    </languages>
+</extension>
