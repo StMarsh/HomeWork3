@@ -37,18 +37,22 @@
     </div> <!-- header -->
     <div id="content">
         <div id="home">
-            <jdoc:include type="modules"  name="position-2" />
+            <div><jdoc:include type="modules"  name="position-2" /></div>
             <jdoc:include type="component" />
+            <jdoc:include type="message" />
+
         </div>
         <div id="bottom">
             <?php if ($this->countModules('position-9')): ?>
-                <div class="box box1"> <jdoc:include type="modules" name="position-9" style="beezDivision" headerlevel="3" /></div>
+                <div class="box box1"> <jdoc:include type="modules" name="position-9" /></div>
             <?php endif; ?>
             <?php if ($this->countModules('position-10')): ?>
-                <div class="box box2"> <jdoc:include type="modules" name="position-10" style="beezDivision" headerlevel="3" /></div>
+                <div class="box box2"> <jdoc:include type="modules" name="position-10" /></div>
             <?php endif; ?>
             <?php if ($this->countModules('position-11')): ?>
-                <div class="box box3"> <jdoc:include type="modules" name="position-11" style="beezDivision" headerlevel="3" /></div>
+                <div class="box box3">
+                    {mosmap width=’500′|height=’400′|lat=’49.4260'|lon=’32.0948′|zoom=’10′| zoomType=’Large’|zoomNew=’1′|mapType=’Normal’| showMaptype=’1′|overview=’0′|text=’Черкассы’|lang=»}
+                </div>
             <?php endif ; ?>
         </div>
     </div> <!-- content -->

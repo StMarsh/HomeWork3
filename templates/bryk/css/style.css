@@ -173,17 +173,17 @@ body {
 
 .box1
 {
-    width:35%
+    width:30%;
 }
 
 .box2
 {
-    width:32%
+    width:30%;
 }
 
 .box3
 {
-    float:right
+    float:right;
 }
 
 img { border: 0 none; }
