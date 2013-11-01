@@ -245,5 +245,5 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/hide.j
 
                 </div>
 				<jdoc:include type="modules" name="debug" />
-        </body>
+</body>
 </html>
