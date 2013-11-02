@@ -30,6 +30,7 @@ $app				= JFactory::getApplication();
 $doc				= JFactory::getDocument();
 $templateparams		= $app->getTemplate(true)->params;
 
+
 $doc->addStyleSheet($this->baseurl.'/templates/system/css/system.css');
 $doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/position.css', $type = 'text/css', $media = 'screen,projection');
 $doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/layout.css', $type = 'text/css', $media = 'screen,projection');
@@ -87,111 +88,79 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/hide.j
     <script src="/javascript/prefixfree.min.js"></script>
     <script type="text/javascript" src="/javascript/flipclock.min.js"></script>
 
+<?php $Itemid = JRequest::getInt( 'Itemid', 1, 'get' );
+$option = JRequest::getVar('option', null);
+$view = JRequest::getVar('view', null);
+$document = & JFactory::getDocument();
+$user = & JFactory::getUser();
+$menu = & JSite::getMenu();
+?>
 </head>
-
-<body>
-
+<?php
+if ($menu->getActive() == $menu->getDefault()) {
+echo "<body>";
+} else {
+    echo "<body id='nHome'>";
+}
+?>
 <div id="all">
         <div id="back">
             <div id="header">
-                                <div class="logoheader">
-                                        <h1 id="logo">
+                <div class="logoheader">
+                    <h1 id="logo">
+                    <?php /*if ($logo): */?>
+                    <a href="/joomlaT/" >
+                        <img src="<?php /*echo $this->baseurl */?>/<?php /*echo htmlspecialchars($logo); */?>"  alt="<?php /*echo htmlspecialchars($templateparams->get('sitetitle'));*/?>" />
+                    </a>
+                    <?php /*endif;*/?>
+                    <?php /*if (!$logo ): */?>
+                    <?php /*echo htmlspecialchars($templateparams->get('sitetitle'));*/?>
+                    <?php /*endif; */?>
+                    <span class="header1">
+                    <?php /*echo htmlspecialchars($templateparams->get('sitedescription'));*/?>
+                    </span></h1>
+                </div><!-- end logoheader -->
+                <ul class="links">
+                    <li class="fb">
+                        <a href="http://www.facebook.com/pages/GeekHub/158983477520070"> </a>
+                    </li>
+                    <li class="vk">
+                        <a href="http://vkontakte.ru/geekhub"> </a>
+                    </li>
+                    <li class="tw">
+                        <a href="http://twitter.com/#!/geek_hub"> </a>
+                    </li>
+                    <li class="yb">
+                        <a href="http://www.youtube.com/user/GeekHubchannel"> </a>
+                    </li>
+                </ul>
+                <span class="line"></span>
+                <div id="pos15"><jdoc:include type="modules" name="position-15" /></div>
+                <div id="GeekHubNews">
+                    <jdoc:include type="modules" name="position-13" />
+                </div>
+                <img alt="splash" src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/images/splash.png">
 
-                                        <?php /*if ($logo): */?>
-                                        <img src="<?php /*echo $this->baseurl */?>/<?php /*echo htmlspecialchars($logo); */?>"  alt="<?php /*echo htmlspecialchars($templateparams->get('sitetitle'));*/?>" />
-                                        <?php /*endif;*/?>
-                                        <?php /*if (!$logo ): */?>
-                                        <?php /*echo htmlspecialchars($templateparams->get('sitetitle'));*/?>
-                                        <?php /*endif; */?>
-                                        <span class="header1">
-                                        <?php /*echo htmlspecialchars($templateparams->get('sitedescription'));*/?>
-                                        </span></h1>
-                                </div><!-- end logoheader -->
-                                <ul class="links">
-                                    <li class="fb">
-                                        <a href="http://www.facebook.com/pages/GeekHub/158983477520070"> </a>
-                                    </li>
-                                    <li class="vk">
-                                        <a href="http://vkontakte.ru/geekhub"> </a>
-                                    </li>
-                                    <li class="tw">
-                                        <a href="http://twitter.com/#!/geek_hub"> </a>
-                                    </li>
-                                    <li class="yb">
-                                        <a href="http://www.youtube.com/user/GeekHubchannel"> </a>
-                                    </li>
-                                </ul>
-                                <span class="line"></span>
-                                        <ul class="skiplinks">
-                                                <li><a href="#main" class="u2"><?php echo JText::_('TPL_BEEZ2_SKIP_TO_CONTENT'); ?></a></li>
-                                                <li><a href="#nav" class="u2"><?php echo JText::_('TPL_BEEZ2_JUMP_TO_NAV'); ?></a></li>
-                                            <?php if($showRightColumn ):?>
-                                            <li><a href="#additional" class="u2"><?php echo JText::_('TPL_BEEZ2_JUMP_TO_INFO'); ?></a></li>
-                                           <?php endif; ?>
-                                        </ul>
-                                        <h2 class="unseen"><?php echo JText::_('TPL_BEEZ2_NAV_VIEW_SEARCH'); ?></h2>
-                                        <h3 class="unseen"><?php echo JText::_('TPL_BEEZ2_NAVIGATION'); ?></h3>
-                                        <jdoc:include type="modules" name="position-13" />
-                                        <div id="line">
-                                        <div id="fontsize"></div>
-                                        <h3 class="unseen"><?php echo JText::_('TPL_BEEZ2_SEARCH'); ?></h3>
-                                        <jdoc:include type="modules" name="position-15" />
-                                        </div> <!-- end line -->
-                                <img alt="splash" src="images/splash.png">
-
-                        </div><!-- end header -->
-                        <div id="<?php echo $showRightColumn ? 'contentarea2' : 'contentarea'; ?>">
-                                        <div id="breadcrumbs">
-
-                                                        <jdoc:include type="modules" name="position-2" />
-
-                                        </div>
-
-                                        <?php if ($navposition=='left' and $showleft) : ?>
-
-
-                                                        <div class="left1 <?php if ($showRightColumn==NULL){ echo 'leftbigger';} ?>" id="nav">
-                                                   <jdoc:include type="modules" name="position-7" style="beezDivision" headerLevel="3" />
-                                                                <jdoc:include type="modules" name="position-4" style="beezHide" headerLevel="3" state="0 " />
-                                                                <jdoc:include type="modules" name="position-5" style="beezTabs" headerLevel="2"  id="3" />
-
-
-                                                        </div><!-- end navi -->
-               <?php endif; ?>
-
-                                        <div id="<?php echo $showRightColumn ? 'wrapper' : 'wrapper2'; ?>" <?php if (isset($showno)){echo 'class="shownocolumns"';}?>>
-
-                                                <div id="main">
-
-                                                <?php if ($this->countModules('position-12')): ?>
-                                                        <div id="top"><jdoc:include type="modules" name="position-12"   />
-                                                        </div>
-                                                <?php endif; ?>
-
-                                                        <jdoc:include type="message" />
-                                                        <jdoc:include type="component" />
-
-                                                </div><!-- end main -->
-
-                                        </div><!-- end wrapper -->
+            </div><!-- end header -->
+            <div id="<?php echo $showRightColumn ? 'contentarea2' : 'contentarea'; ?>">
+                <?php if ($navposition=='left' and $showleft) : ?>
+                <div class="left1 <?php if ($showRightColumn==NULL){ echo 'leftbigger';} ?>" id="nav">
+                    <jdoc:include type="modules" name="position-7" style="beezDivision" headerLevel="3" />
+                    <jdoc:include type="modules" name="position-4" style="beezHide" headerLevel="3" state="0 " />
+                    <jdoc:include type="modules" name="position-5" style="beezTabs" headerLevel="2"  id="3" />
+                </div><!-- end navi -->
+                <?php endif; ?>
+                <div id="<?php echo $showRightColumn ? 'wrapper' : 'wrapper2'; ?>" <?php if (isset($showno)){echo 'class="shownocolumns"';}?>>
+                    <div id="main">
+                        <jdoc:include type="message" />
+                        <jdoc:include type="component" />
+                    </div><!-- end main -->
+                </div><!-- end wrapper -->
 
                                 <?php if ($showRightColumn) : ?>
                                         <h2 class="unseen">
                                                 <?php echo JText::_('TPL_BEEZ2_ADDITIONAL_INFORMATION'); ?>
                                         </h2>
-                                        <div id="close">
-                                                <a href="#" onclick="auf('right')">
-                                                        <span id="bild">
-                                                                <?php echo JText::_('TPL_BEEZ2_TEXTRIGHTCLOSE'); ?></span></a>
-                                        </div>
-
-
-                                        <div id="right">
-                                                <a id="additional"></a>
-                                                <jdoc:include type="modules" name="position-6" style="beezDivision" headerLevel="3"/>
-                                                <jdoc:include type="modules" name="position-8" style="beezDivision" headerLevel="3"  />
-                                                <jdoc:include type="modules" name="position-3" style="beezDivision" headerLevel="3"  />
-                                        </div><!-- end right -->
                                         <?php endif; ?>
 
                         <?php if ($navposition=='center' and $showleft) : ?>
@@ -206,13 +175,11 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/hide.j
                                         </div><!-- end navi -->
                    <?php endif; ?>
 
-                                <div class="wrap"></div>
-
                                 </div> <!-- end contentarea -->
 
-                        </div><!-- back -->
+        </div><!-- back -->
 
-                </div><!-- all -->
+</div><!-- all -->
 
                 <div id="footer-outer">
                         <?php if ($showbottom) : ?>

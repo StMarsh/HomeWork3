@@ -51,12 +51,24 @@ a:hover { text-decoration:none; }
 body {
     background:url("../images/header_bg.png") repeat-x top center #fff;
 }
-
+body#nHome {
+    background:url("../images/headers_bg.png") repeat-x scroll center 0px #FFFFFF;;
+}
 #all {
     width:901px;
     overflow:visible;
     margin:0 auto;
     padding:0 0 80px;
+}
+
+body #nHome span.line
+{
+    display:block;
+    width:100%;
+    height:0px;
+    overflow:hidden;
+    clear:both;
+    border-top:1px solid #8ea8b3;
 }
 
 /*----------------------------------------------------------------------------------*/
@@ -107,17 +119,6 @@ body {
     z-index:1;
     display:block;
 }
-#header #headTopL {
-    width: 450px;
-}
-#header #headTopR {
-    width: 50%;
-    margin-left: 455px;
-    margin-top: 50px;
-    font-size: 15px;
-    font-weight: bold;
-    height: 16px;
-}
 #header .line {
     border-top: 1px solid #8EA8B3;
     clear: both;
@@ -125,24 +126,14 @@ body {
     height: 0;
     overflow: hidden;
     width: 100%;
-    margin-top: 40px;
+    margin-top: -52px;
 }
-#header #headBot {
-    margin-top: 30px;
-    color: #246685;
-    font-family: "Trebuchet MS";
-    font-size: 36px;
-    font-weight: normal;
-    padding: 73px 0 18px;
-    position: relative;
-    text-align: center;
-    z-index: 2;
-}
+
 #header .links {
     overflow:hidden;
     float:right;
     height:42px;
-    margin:37px 460px 0 0;
+    margin:37px 463px 0 0;
 }
 #header .links li {
     float:left;
@@ -176,8 +167,29 @@ body {
 #header .links li a.active,#header .links li.active a,#header .links li a:hover {
     background-image:url("http://geekhub.ck.ua/images/icons_social_hover.png");
 }
+#nHome #header{
+    height: 108px;
+}
 
-
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------NAV------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+#nHome #header .menu {
+    height:18px;
+    margin:48px -30px 0 0;
+    padding: 0 5px 20px;
+}
+#nHome #header .menu li a {
+    padding: 48px 0 44px;
+}
+#nHome #header .menu li.active a {
+    min-width: 46px;
+    text-align: center;
+    background:url("../images/inner_active.png") center bottom no-repeat;
+}
+#nHome #header .menu li {
+    margin-right: 25px;
+}
 /*----------------------------------------------------------------------------------*/
 /*-------------------------------------CONTENT--------------------------------------*/
 /*----------------------------------------------------------------------------------*/
