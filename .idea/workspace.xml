@@ -76,7 +76,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/bryk/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="42" selection-start="7325" selection-end="7327" vertical-scroll-proportion="-8.86" vertical-offset="1612" max-vertical-offset="2460">
+            <state line="131" column="35" selection-start="6193" selection-end="6193" vertical-scroll-proportion="-3.46" vertical-offset="1522" max-vertical-offset="2460">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#html#0" expanded="false" />
                 <marker date="1383396715000" expanded="true" signature="4774:4829" placeholder="..." />
@@ -88,7 +88,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="281" column="19" selection-start="8063" selection-end="8063" vertical-scroll-proportion="0.8107798" vertical-offset="3508" max-vertical-offset="5175">
+            <state line="363" column="23" selection-start="9783" selection-end="9783" vertical-scroll-proportion="0.91399086" vertical-offset="4648" max-vertical-offset="6285">
               <folding />
             </state>
           </provider>
@@ -220,6 +220,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomlaT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomlaT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bryk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomlaT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomlaT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bryk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -419,16 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/bryk/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="42" selection-start="7325" selection-end="7327" vertical-scroll-proportion="-8.86" vertical-offset="1612" max-vertical-offset="2460">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#html#0" expanded="false" />
-            <marker date="1383396715000" expanded="true" signature="4774:4829" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/bryk/css/position.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="248" column="0" selection-start="3909" selection-end="3909" vertical-scroll-proportion="-24.423077" vertical-offset="3085" max-vertical-offset="6135">
@@ -450,9 +480,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bryk/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="35" selection-start="6193" selection-end="6193" vertical-scroll-proportion="-3.46" vertical-offset="1522" max-vertical-offset="2460">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#html#0" expanded="false" />
+            <marker date="1383396715000" expanded="true" signature="4774:4829" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="19" selection-start="8063" selection-end="8063" vertical-scroll-proportion="0.8107798" vertical-offset="3508" max-vertical-offset="5175">
+        <state line="363" column="23" selection-start="9783" selection-end="9783" vertical-scroll-proportion="0.91399086" vertical-offset="4648" max-vertical-offset="6285">
           <folding />
         </state>
       </provider>
