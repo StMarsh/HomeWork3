@@ -176,19 +176,15 @@ body #nHome span.line
 /*----------------------------------------------------------------------------------*/
 #nHome #header .menu {
     height:18px;
-    margin:48px -30px 0 0;
-    padding: 0 5px 20px;
+    margin:48px -16px 0 0;
 }
 #nHome #header .menu li a {
-    padding: 48px 0 44px;
+    padding: 48px 10px 42px 15px;
 }
 #nHome #header .menu li.active a {
     min-width: 46px;
     text-align: center;
     background:url("../images/inner_active.png") center bottom no-repeat;
-}
-#nHome #header .menu li {
-    margin-right: 25px;
 }
 #nav {
     position: relative;
@@ -227,8 +223,50 @@ body #nHome span.line
     float: left;
     width: 290px;
     margin: 0;
+    padding-bottom: 15px;
 }
+#main .blog .items-row .item p.readmore {
+    margin-top: 5px;
+}
+#main .blog .items-row .item p.readmore a{
+    margin-top: 0px;
+    text-decoration: underline;
+    color: #EA2678;
+    display: block;
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    margin-left: 95px;
+}
+/*-------------------------------------ABOUT---------------------------------------*/
 
+#main .item-pageabout h2{
+    border-bottom: 1px solid #A7C3CF;
+    font-family: "Trebuchet MS";
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 50px;
+    margin: 18px 0 27px;
+    padding: 0 0 8px;
+}
+#main .item-pageabout p {
+    padding-left: 335px;
+    color: #4C7689;
+    font-weight: normal;
+    margin: 0 0 10px;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 20px;
+}
+#main .item-pageabout .img-fulltext-left {
+    margin-left: 35px;
+}
+#main .item-pageabout p a {
+    color: #E11D5D;
+    font-weight: bold;
+}
+#main .item-pageabout {
+    margin-bottom: 100px;
+}
 /*----------------------------------------------------------------------------------*/
 /*-------------------------------------FOOTER---------------------------------------*/
 /*----------------------------------------------------------------------------------*/

@@ -1063,3 +1063,5 @@ background-position: 0 -56px;
 #content .details .register:active {
 background-position: 0 -112px;
 }
+
+
