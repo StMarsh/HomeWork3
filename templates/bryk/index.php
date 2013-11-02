@@ -12,7 +12,6 @@ defined('_JEXEC') or die;
 jimport('joomla.filesystem.file');
 
 // check modules
-$showRightColumn	= ($this->countModules('position-3') or $this->countModules('position-6') or $this->countModules('position-8'));
 $showbottom			= ($this->countModules('position-9') or $this->countModules('position-10') or $this->countModules('position-11'));
 $showleft			= ($this->countModules('position-4') or $this->countModules('position-7') or $this->countModules('position-5'));
 
@@ -135,82 +134,43 @@ echo "<body>";
                     </li>
                 </ul>
                 <span class="line"></span>
-                <div id="pos15"><jdoc:include type="modules" name="position-15" /></div>
+                <div id="pos15">
+                    <jdoc:include type="modules" name="position-15" />
+                </div>
                 <div id="GeekHubNews">
                     <jdoc:include type="modules" name="position-13" />
                 </div>
                 <img alt="splash" src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/images/splash.png">
 
             </div><!-- end header -->
-            <div id="<?php echo $showRightColumn ? 'contentarea2' : 'contentarea'; ?>">
-                <?php if ($navposition=='left' and $showleft) : ?>
-                <div class="left1 <?php if ($showRightColumn==NULL){ echo 'leftbigger';} ?>" id="nav">
-                    <jdoc:include type="modules" name="position-7" style="beezDivision" headerLevel="3" />
-                    <jdoc:include type="modules" name="position-4" style="beezHide" headerLevel="3" state="0 " />
-                    <jdoc:include type="modules" name="position-5" style="beezTabs" headerLevel="2"  id="3" />
-                </div><!-- end navi -->
+            <div id="wrapper">
+                <?php if ($showleft) : ?>
+                    <div id="nav">
+                        <jdoc:include type="modules" name="position-7" />
+                        <jdoc:include type="modules" name="position-4" />
+                        <jdoc:include type="modules" name="position-5" />
+                    </div><!-- end nav -->
                 <?php endif; ?>
-                <div id="<?php echo $showRightColumn ? 'wrapper' : 'wrapper2'; ?>" <?php if (isset($showno)){echo 'class="shownocolumns"';}?>>
-                    <div id="main">
-                        <jdoc:include type="message" />
-                        <jdoc:include type="component" />
-                    </div><!-- end main -->
-                </div><!-- end wrapper -->
-
-                                <?php if ($showRightColumn) : ?>
-                                        <h2 class="unseen">
-                                                <?php echo JText::_('TPL_BEEZ2_ADDITIONAL_INFORMATION'); ?>
-                                        </h2>
-                                        <?php endif; ?>
-
-                        <?php if ($navposition=='center' and $showleft) : ?>
-
-                                        <div class="left <?php if ($showRightColumn==NULL){ echo 'leftbigger';} ?>" id="nav" >
-
-                                                <jdoc:include type="modules" name="position-7"  style="beezDivision" headerLevel="3" />
-                                                <jdoc:include type="modules" name="position-4" style="beezHide" headerLevel="3" state="0 " />
-                                                <jdoc:include type="modules" name="position-5" style="beezTabs" headerLevel="2"  id="3" />
-
-
-                                        </div><!-- end navi -->
-                   <?php endif; ?>
-
-                                </div> <!-- end contentarea -->
-
+                <div id="main">
+                    <jdoc:include type="message" />
+                    <jdoc:include type="component" />
+                </div><!-- end main -->
+            </div><!-- end wrapper -->
+            <div id="footer-outer">
+                <div id="bottop">
+                    <div class="box box1"> <jdoc:include type="modules" name="position-9" /></div>
+                    <div class="box box2"> <jdoc:include type="modules" name="position-10" /></div>
+                    <div class="box box3"> <jdoc:include type="modules" name="position-11" /></div>
+                </div>
+                <div id="footer">
+                    <jdoc:include type="modules" name="position-14" />
+                </div><!-- end footer -->
+            </div><!-- end footer-outer -->
+            <jdoc:include type="modules" name="debug" />
         </div><!-- back -->
 
 </div><!-- all -->
 
-                <div id="footer-outer">
-                        <?php if ($showbottom) : ?>
-                        <div id="footer-inner">
 
-                                <div id="bottom">
-                                        <div class="box box1"> <jdoc:include type="modules" name="position-9" style="beezDivision" headerlevel="3" /></div>
-                                        <div class="box box2"> <jdoc:include type="modules" name="position-10" style="beezDivision" headerlevel="3" /></div>
-                                        <div class="box box3"> <jdoc:include type="modules" name="position-11" style="beezDivision" headerlevel="3" /></div>
-                                </div>
-
-
-                        </div>
-                                <?php endif ; ?>
-
-                        <div id="footer-sub">
-
-
-                                <div id="footer">
-
-                                        <jdoc:include type="modules" name="position-14" />
-                                        <p>
-                                                <?php echo JText::_('TPL_BEEZ2_POWERED_BY');?> <a href="http://www.joomla.org/">Joomla!&#174;</a>
-                                        </p>
-
-
-                                </div><!-- end footer -->
-
-                        </div>
-
-                </div>
-				<jdoc:include type="modules" name="debug" />
 </body>
 </html>

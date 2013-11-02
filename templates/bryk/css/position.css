@@ -63,24 +63,13 @@ body
 
 #wrapper
 {
-        width:53%;
-        float:left;
+        width:100%;
+        float:right;
         position:relative;
 
 }
 
-#wrapper2
-{
-    width:72%;
-    float:left;
-    position:relative;
-    padding-bottom:20px
 
-}
-#wrapper2 .item-page
-{
-    max-width:660px
-}
 #main
 {
     padding: 10px 0px 20px 0px;
@@ -171,18 +160,6 @@ body
 
 }
 
-.wrap
-{
-    border: 0;
-    clear: both;
-    float: none;
-    font-size: 1px;
-    height: 0;
-    line-height: 1px;
-    margin: 0;
-    padding: 0;
-    visibility: hidden;
-}
 
 h1#logo
 {
@@ -256,31 +233,22 @@ h1#logo
     z-index: 2;
 }
 
-/* ++++++++++++++  button for closing right column  ++++++++++++++ */
-
-#close
-{
-        margin-right:0px;
-        font-size:0.85em;
-        text-transform:uppercase;
-}
-
-#close span
-{
-    position:absolute;
-    right: 20px;
-    z-index:10000;
-    top:5px;
-    width:7em;
-    font-weight:bold;
-    text-align:right;
-    line-height:1.5em;
-    padding:5px 2px 5px 5px
-}
-
 /* ###################### main ###################### */
 
 /* ++++++++++++++  position  ++++++++++++++ */
+
+#main .blog h2{
+    color: #4C7687;
+    font-family: "Trebuchet MS";
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    line-height: 18px;
+    position: relative;
+    text-align: center;
+    z-index: 2;
+    margin-top: 18px;
+}
 
 .blog-featured
 {
@@ -392,7 +360,7 @@ h1#logo
 {
         padding:10px 5px
 }
-#contentarea #wrapper2 div#main div.blog h2
+
 /* ++++++++++++++  footer  ++++++++++++++ */
 
 #bottom
@@ -432,3 +400,4 @@ h1#logo
 }
 
 img { border: 0 none; }
+
