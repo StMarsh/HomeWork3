@@ -237,9 +237,9 @@ body #nHome span.line
     font-size: 12px;
     margin-left: 95px;
 }
-/*-------------------------------------ABOUT---------------------------------------*/
+/*-------------------------------------ABOUT/FAQ---------------------------------------*/
 
-#main .item-pageabout h2{
+#main .item-pageabout h2, #main .item-pagefaq h2 {
     border-bottom: 1px solid #A7C3CF;
     font-family: "Trebuchet MS";
     font-size: 50px;
@@ -248,8 +248,7 @@ body #nHome span.line
     margin: 18px 0 27px;
     padding: 0 0 8px;
 }
-#main .item-pageabout p {
-    padding-left: 335px;
+#main .item-pageabout p, #main .item-pagefaq p {
     color: #4C7689;
     font-weight: normal;
     margin: 0 0 10px;
@@ -257,15 +256,38 @@ body #nHome span.line
     font-size: 14px;
     line-height: 20px;
 }
-#main .item-pageabout .img-fulltext-left {
+#main .item-pageabout p {
+    margin-left: 335px;
+}
+#main .item-pageabout .img-fulltext-left, #main .item-pagefaq .img-fulltext-left {
     margin-left: 35px;
 }
 #main .item-pageabout p a {
     color: #E11D5D;
     font-weight: bold;
 }
-#main .item-pageabout {
+#main .item-pageabout, #main .item-pagefaq {
     margin-bottom: 100px;
+}
+#main .item-pagefaq li h3 {
+    color: #EA2778;
+    font-family: "Trebuchet MS";
+    font-size: 29px;
+    font-weight: normal;
+    line-height: 29px;
+    margin: 0 0 10px;
+    padding-left: 322px;
+}
+#main .item-pagefaq td {
+    color: #4C7689;
+    font-weight: normal;
+    margin: 0 0 10px;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 20px;
+}
+#main .item-pagefaq table, #main .item-pagefaq p {
+    margin-left: 322px;
 }
 /*----------------------------------------------------------------------------------*/
 /*-------------------------------------FOOTER---------------------------------------*/

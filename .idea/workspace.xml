@@ -31,8 +31,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/images/icon-pm.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/images/icon-qa.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/templates/bryk/images/icon-ruby.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/ips.txt" afterPath="$PROJECT_DIR$/templates/ips.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/bryk/css/layout.css" afterPath="$PROJECT_DIR$/templates/bryk/css/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/bryk/css/style.css" afterPath="$PROJECT_DIR$/templates/bryk/css/style.css" />
     </list>
     <ignored path="joomlaT.iws" />
@@ -87,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="267" column="21" selection-start="7673" selection-end="7673" vertical-scroll-proportion="-20.846153" vertical-offset="3463" max-vertical-offset="4845">
+            <state line="281" column="19" selection-start="8063" selection-end="8063" vertical-scroll-proportion="0.8107798" vertical-offset="3508" max-vertical-offset="5175">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ips.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ips.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/ips.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1066" column="0" selection-start="25043" selection-end="25043" vertical-scroll-proportion="0.9483945" vertical-offset="15163" max-vertical-offset="16095">
+            <state line="1066" column="0" selection-start="25043" selection-end="25043" vertical-scroll-proportion="-31.807692" vertical-offset="15163" max-vertical-offset="16095">
               <folding />
             </state>
           </provider>
@@ -155,8 +153,8 @@
         <option value="$PROJECT_DIR$/templates/bryk/index.php" />
         <option value="$PROJECT_DIR$/templates/bryk/css/position.css" />
         <option value="$PROJECT_DIR$/templates/bryk/css/layout.css" />
-        <option value="$PROJECT_DIR$/templates/bryk/css/style.css" />
         <option value="$PROJECT_DIR$/templates/ips.txt" />
+        <option value="$PROJECT_DIR$/templates/bryk/css/style.css" />
       </list>
     </option>
   </component>
@@ -445,16 +443,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
+    <entry file="file://$PROJECT_DIR$/templates/ips.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="267" column="21" selection-start="7673" selection-end="7673" vertical-scroll-proportion="-20.846153" vertical-offset="3463" max-vertical-offset="4845">
+        <state line="1066" column="0" selection-start="25043" selection-end="25043" vertical-scroll-proportion="-31.807692" vertical-offset="15163" max-vertical-offset="16095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ips.txt">
+    <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1066" column="0" selection-start="25043" selection-end="25043" vertical-scroll-proportion="0.9483945" vertical-offset="15163" max-vertical-offset="16095">
+        <state line="281" column="19" selection-start="8063" selection-end="8063" vertical-scroll-proportion="0.8107798" vertical-offset="3508" max-vertical-offset="5175">
           <folding />
         </state>
       </provider>
