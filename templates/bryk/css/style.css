@@ -237,9 +237,9 @@ body #nHome span.line
     font-size: 12px;
     margin-left: 95px;
 }
-/*-------------------------------------ABOUT/FAQ/ЗВ'ЯЗОК---------------------------------------*/
+/*-------------------------------------ABOUT/FAQ/ЗВ'ЯЗОК/TEAM---------------------------------------*/
 
-#main .item-pageabout h2, #main .item-pagefaq h2, #main .item-pagecontacts h2 {
+#main .item-pageabout h2, #main .item-pagefaq h2, #main .item-pagecontacts h2, #main .blogteam h1 {
     border-bottom: 1px solid #A7C3CF;
     font-family: "Trebuchet MS";
     font-size: 50px;
@@ -362,6 +362,90 @@ body #nHome span.line
     margin-top: 10px;
     float: left;
     margin-bottom: 50px;
+}
+
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------TEAM----------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+#main .blogteam .items-leading a {
+    color:#E11D5D;
+}
+#main .blogteam .items-leading a:hover {
+    text-decoration:underline;
+}
+#main .blogteam .items-leading {
+    overflow:hidden;
+}
+#main .blogteam .items-leading .lcd{
+    overflow:hidden;
+    height:170px;
+}
+#main .blogteam .items-leading .rcd{
+    overflow:hidden;
+    height:170px;
+}
+#main .blogteam .items-leading h3 {
+    font-family: "Trebuchet MS";
+    font-weight:normal;
+    font-size:25px;
+    line-height:29px;
+    color:#ea2778;
+}
+#main .blogteam .items-leading h3 span {
+    font-family: arial;
+    font-weight:normal;
+    font-size:12px;
+    line-height:16px;
+    padding-top:5px;
+    color:#f3753e;
+    display: block;
+
+}
+#main .blogteam .items-leading p {
+    overflow:hidden;
+    font-size:14px;
+    line-height:20px;
+}
+#main .lch {
+    float: left;
+    width: 220px;
+    padding-right: 20px;
+    padding-top: 38px;
+}
+#main .lcp {
+    float: right;
+    width: 460px;
+    padding-left: 0px;
+    padding-top: 38px;
+}
+#main .lca {
+    width: 170px;
+    float: left;
+}
+#main .lch h3 {
+    text-align: right;
+}
+#main .rch {
+    float: right;
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 38px;
+}
+#main .rcp {
+    float: left;
+    width: 460px;
+    padding-right: 20px;
+    padding-top: 38px;
+}
+#main .rca {
+    width: 170px;
+    float: left;
+}
+#main .rch h3 {
+    text-align: left;
+}
+#main .rcp p {
+    text-align: right;
 }
 /*----------------------------------------------------------------------------------*/
 /*-------------------------------------FOOTER---------------------------------------*/
