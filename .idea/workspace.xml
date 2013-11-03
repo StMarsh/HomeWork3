@@ -68,7 +68,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="414" column="12" selection-start="10975" selection-end="10975" vertical-scroll-proportion="0.43207127" vertical-offset="5822" max-vertical-offset="7545">
+            <state line="596" column="23" selection-start="14498" selection-end="14498" vertical-scroll-proportion="0.6158129" vertical-offset="8387" max-vertical-offset="9330">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="532" column="7" selection-start="13387" selection-end="13412" vertical-scroll-proportion="-11.448276" vertical-offset="7648" max-vertical-offset="16095">
+            <state line="1064" column="1" selection-start="24586" selection-end="25041" vertical-scroll-proportion="-25.310345" vertical-offset="15226" max-vertical-offset="16095">
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/bryk/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="443" column="1" selection-start="6774" selection-end="6774" vertical-scroll-proportion="0.0" vertical-offset="6175" max-vertical-offset="33855">
+            <state line="482" column="0" selection-start="7242" selection-end="7242" vertical-scroll-proportion="0.0" vertical-offset="6895" max-vertical-offset="33840">
               <folding />
             </state>
           </provider>
@@ -450,26 +450,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bryk/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="482" column="0" selection-start="7242" selection-end="7242" vertical-scroll-proportion="0.0" vertical-offset="6895" max-vertical-offset="33840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/ips.txt">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="532" column="7" selection-start="13387" selection-end="13412" vertical-scroll-proportion="-11.448276" vertical-offset="7648" max-vertical-offset="16095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/bryk/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="443" column="1" selection-start="6774" selection-end="6774" vertical-scroll-proportion="0.0" vertical-offset="6175" max-vertical-offset="33855">
+        <state line="1064" column="1" selection-start="24586" selection-end="25041" vertical-scroll-proportion="-25.310345" vertical-offset="15226" max-vertical-offset="16095">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/bryk/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="414" column="12" selection-start="10975" selection-end="10975" vertical-scroll-proportion="0.43207127" vertical-offset="5822" max-vertical-offset="7545">
+        <state line="596" column="23" selection-start="14498" selection-end="14498" vertical-scroll-proportion="0.6158129" vertical-offset="8387" max-vertical-offset="9330">
           <folding />
         </state>
       </provider>

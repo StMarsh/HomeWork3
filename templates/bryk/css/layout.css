@@ -341,7 +341,7 @@ ul.menu li a:link,
  ul.menu li.active a:link,
  ul.menu li.active a:visited
 {
-        font-weight:bold;
+        color: #3191B8;
 }
 
  ul.menu li a:hover,
@@ -501,7 +501,6 @@ ul.menu li.active ul li.active ul li a:link,
 {
         list-style-position:outside;
         list-style-type:square;
-        padding:0 0 0 15px;
         margin:10px 0 10px 0px;
 }
 

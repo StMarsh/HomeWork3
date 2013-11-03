@@ -495,3 +495,123 @@ img { border: 0 none; }
     color: #396375;
 }
 
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------CURSES---------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+#nav .menu li {
+    border-bottom: 1px dotted #D2DCE1;
+}
+#main .item-page {
+    float: right;
+    width: 655px;
+    margin-top: -400px;
+}
+#nav .custom p {
+    text-align:center;
+    font-family: "Trebuchet MS";
+    font-weight:normal;
+    font-size:14px;
+    line-height:18px;
+    color: #4C7687;
+    text-transform:uppercase;
+    letter-spacing:4px;
+    padding:0 0 8px;
+    position:relative;
+    z-index:2;
+    border-bottom: 1px solid #D2DCE1;
+}
+#nav {
+    margin-top: 28px;
+    padding-right: 40px;
+}
+#nav #curs.menu li a {
+    padding: 7px 0 7px 8px;
+    display: block;
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+}
+#main .item-page .img-fulltext-right img {
+    margin-top: -47px;
+    margin-right: -5px;
+}
+#main .item-page h2 {
+    margin: 15px 0 0;
+    padding: 0 0 18px 0;
+    color: #EA2778;
+    font-family: "Trebuchet MS";
+    font-size: 24px;
+    font-weight: normal;
+}
+#main .item-page p {
+    overflow: hidden;
+    margin:0 0 13px;
+    font-size: 13px;
+    line-height:18px;
+    color: #4C7687;
+}
+#main .item-page h3 {
+    clear: both;
+    text-align:center;
+    font-family: "Trebuchet MS";
+    font-weight:normal;
+    font-size:14px;
+    line-height:18px;
+    color: #4C7687;
+    text-transform:uppercase;
+    letter-spacing:4px;
+    padding:0 0 8px;
+    position:relative;
+    z-index:2;
+    border-bottom: 1px solid #D2DCE1;
+}
+#main .item-page .team li img {
+    display:block;
+    float:left;
+    margin:15px 24px 0 0;
+}
+#main .item-page .team li h3 {
+    padding: 24px 0 4px;
+    font-family: "Trebuchet MS";
+    font-weight:normal;
+    font-size:20px;
+    line-height:29px;
+    color:#EA2678;
+    border-bottom: 0;
+    clear: none;
+    letter-spacing: 0;
+    text-align: left;
+    text-transform: none;
+}
+#main .item-page .team li {
+    padding-bottom: 70px;
+}
+#main .item-page .questions li {
+    overflow:hidden;
+    padding:0 0 13px 30px;
+    background: url("../images/question-li.png") no-repeat left top;
+    font-size: 12px;
+}
+#main .item-page .register {
+    overflow: hidden;
+    display:block;
+    position: relative;
+    width:310px;
+    height:56px;
+    margin: 10px auto 75px;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    color:#fff;
+    text-align:center;
+    font-size:28px;
+    background:url("../images/register-button.png") no-repeat;
+    text-indent: 400px;
+    z-index:2;
+}
+#main .item-page .register:hover {
+    background-position: 0 -56px;
+}
+#main .item-page .register:active {
+    background-position: 0 -112px;
+}
+#main .item-page ul.pagenav {
+    display: none;
+}
