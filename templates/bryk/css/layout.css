@@ -102,6 +102,7 @@ em
 {
         display:inline ;
         padding:0;
+    margin-right: 6px;
 }
 
 #header ul.menu li a:link,
@@ -1429,11 +1430,6 @@ legend.element-invisible
         padding:0;
 }
 
-.box
-{
-        text-align:left
-}
-
 .box ul
 {
         list-style-type:none
@@ -1643,7 +1639,6 @@ ul.newsflash-horiz li h4
 
 .banneritem
 {
-        margin: 10px 0px 10px 0px;
         padding:0px;
 }
 

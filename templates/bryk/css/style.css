@@ -197,8 +197,9 @@ body #nHome span.line
     border-top:1px solid #D2DCE1;
    }
 #main .blog .items-row .item img{
-    margin-top: -73px;
+    margin-top: -45px;
     margin-left: -5px;
+    display: block;
 }
 #main .blog .items-row h2 {
     color: #EA2778;
@@ -276,7 +277,7 @@ body #nHome span.line
     font-weight: normal;
     line-height: 29px;
     margin: 0 0 10px;
-    padding-left: 322px;
+    padding-left: 337px;
 }
 #main .item-pagefaq td {
     color: #4C7689;
@@ -286,8 +287,11 @@ body #nHome span.line
     font-size: 14px;
     line-height: 20px;
 }
+#main .item-pagefaq table {
+    margin-bottom: 10px;
+}
 #main .item-pagefaq table, #main .item-pagefaq p {
-    margin-left: 322px;
+    margin-left: 337px;
 }
 #main .item-pagecontacts #map {
     float: left;
@@ -300,6 +304,7 @@ body #nHome span.line
     font-weight: normal;
     text-align: center;
     margin-top: 40px;
+    padding-bottom: 12px;
 }
 #main .item-pagecontacts #map dd.map {
     border: 2px dashed #4C7689;
@@ -459,26 +464,32 @@ body #nHome span.line
 
 .box
 {
-    width:27%;
     float:left;
-    margin-right:10px;
     min-height:100px;
-    position:relative
+    position:relative;
+    text-align: inherit;
+    margin-bottom: 45px;
 }
 
 .box1
 {
-    width:30%;
+    width:275px;
+    margin-right: 20px;
 }
 
 .box2
 {
-    width:30%;
+    width:276px;
+    margin-right: 33px;
+    margin-left: 13px;
 }
 
 .box3
 {
     float:right;
+    width: 275px;
+    margin-right: 0;
+    padding-left: 0;
 }
 
 img { border: 0 none; }
@@ -495,6 +506,76 @@ img { border: 0 none; }
     color: #396375;
 }
 
+#footer-outer #bottop .box h4 {
+    text-align:center;
+    font-family: "Trebuchet MS";
+    font-weight:normal;
+    font-size:14px;
+    line-height:14px;
+    text-transform:uppercase;
+    letter-spacing:6px;
+    padding:0 0 8px;
+    margin: 0 0 22px;
+    border-bottom:1px solid #a7c3cf;
+}
+#footer-outer #bottop .box ul {
+    overflow:hidden;
+}
+#footer-outer #bottop .box ul li {
+    float:left;
+    padding:0 12px 14px;
+}
+#footer-outer #bottop .box ul li a {
+    display:block;
+    text-indent:-200px;
+    overflow:hidden;
+    background:url("../images/sponsors.png") no-repeat;
+}
+
+#footer-outer #bottop .box ul li.de a:hover {
+    background-position: 0 0;
+}
+#footer-outer #bottop .box ul li.de a {
+    width:70px;
+    height:54px;
+    background-position: 0 -76px;
+}
+#footer-outer #bottop .box ul li.moc a:hover {
+    background-position: -101px 0px;
+}
+#footer-outer #bottop .box ul li.moc a {
+    width:72px;
+    height:46px;
+    background-position: -101px -76px;
+}
+#footer-outer #bottop .box ul li.sergium a:hover {
+    background-position: -209px 0px;
+}
+#footer-outer #bottop .box ul li.sergium a {
+    width:45px;
+    height:48px;
+    background-position: -209px -76px;
+}
+#footer-outer #bottop .box ul li.stuff a:hover {
+    background-position: -283px 0px;
+}
+#footer-outer #bottop .box ul li.stuff a {
+    width:59px;
+    height:49px;
+    background-position: -283px -76px;
+}
+#footer-outer #bottop .box ul li.youthog a:hover {
+    background-position: -385px 0;
+}
+#footer-outer #bottop .box ul li.youthog a {
+    width:61px;
+    height:44px;
+    background-position: -385px -76px;
+}
+#footer-outer #bottop .box ul li.clear {
+    margin-left: 60px;
+    margin-top: 0;
+}
 /*----------------------------------------------------------------------------------*/
 /*-------------------------------------CURSES---------------------------------------*/
 /*----------------------------------------------------------------------------------*/
@@ -613,5 +694,8 @@ img { border: 0 none; }
     background-position: 0 -112px;
 }
 #main .item-page ul.pagenav {
+    display: none;
+}
+#nHome #footer-outer #bottop {
     display: none;
 }
