@@ -159,16 +159,7 @@ echo "<body>";
                     <div id="bottop">
                         <div class="box box1"> <jdoc:include type="modules" name="position-9" /></div>
                         <div class="box box2"> <jdoc:include type="modules" name="position-10" /></div>
-                        <div class="box box3">
-                            <h4>Наші Спонсори</h4>
-                            <ul>
-                                <li class="de"><a href="http://povnahata.com">Дім Євангелія</a></li>
-                                <li class="moc"><a href="http://masterofcode.com">Masterofcode LTD</a></li>
-                                <li class="sergium"><a href="http://sergium.net">SerGium.net</a></li>
-                                <li class="clear left stuff"><a href="http://val.co.ua">val.co.ua</a></li>
-                                <li class="youthog"><a href="http://yothog.com">Youthog.com</a></li>
-                            </ul>
-                        </div>
+                        <div class="box box3"> <jdoc:include type="modules" name="position-11" /></div>
                     </div>
                     <div id="footer">
                         <jdoc:include type="modules" name="position-14" />

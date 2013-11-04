@@ -696,6 +696,7 @@ img { border: 0 none; }
 #main .item-page ul.pagenav {
     display: none;
 }
-#nHome #footer-outer #bottop {
-    display: none;
+#header #GeekHubNews .custom p {
+    line-height: 1em;
+    padding-top: 40px;
 }
